@@ -2,6 +2,6 @@
 
 E-book only!
 
-The book is as empty as this GitHub repository.
+The book is as empty!
 
-Since some people still had doubts, Im mentioning it again: its a joke book.there is no content. there is no way you can become a data scientist in 30 days.
+Don't be in doubt, I am saying it again: its a joke book! There is no content in the book as there is no way you can become a data scientist in just 30 days. 
